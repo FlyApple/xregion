@@ -1,0 +1,214 @@
+﻿id	name	fullname	short	code	continents	name_chn	fullname_chn	desc
+1	Afghanistan	Islamic State of Afghanistan	AF	93	Asia	阿富汗	阿富汗伊斯兰共和国	
+2	Albania	Republic of Albania	AL	355	Europe	阿尔巴尼亚	阿尔巴尼亚共和国	
+3	Algeria	Democratic Peoples Republic of Algeria	DZ	213	Africa	阿尔及利亚	阿尔及利亚民主人民共和国	
+4	American Samoa	American Samoa	AS	1684	Oceania	美属萨摩亚	美属萨摩亚群岛	
+5	Andorra	Principality of Andorra	AD	376	Europe	安道尔	安道尔公国	
+6	Angola	Republic of Angola	AO	244	Africa	安哥拉	安哥拉共和国	
+7	Anguilla	Anguilla	AI	1264	North America	安圭拉	安圭拉	
+8	Antigua and Barbuda	Antigua and Barbuda	AG	1268	North America	安提瓜和巴布达	安提瓜和巴布达	
+9	Argentina	Republic of Argentina	AR	54	South America	阿根廷	阿根廷共和国	
+10	Armenia	Republic of Armenia	AM	374	Asia	亚美尼亚	亚美尼亚共和国	
+11	Aruba	Aruba	AW	237	North America	阿鲁巴	阿鲁巴	
+12	Australia	Commonwealth of Australia	AU	61	Oceania	澳大利亚	澳大利亚联邦	
+13	Austria	Republic of Austria	AT	43	Europe	奥地利	奥地利共和国	
+14	Azerbaijan	Republic of Azerbaijan	AZ	994	Asia	阿塞拜疆	阿塞拜疆共和国	
+15	Bangladesh	Peoples Republic of Bangladesh	BD	880	Asia	孟加拉	孟加拉人民共和国	
+16	Bahrain	State of Bahrain	BH	973	Asia	巴林	巴林王国	
+17	Bahamas	Commonwealth of the Bahamas	BS	1242	North America	巴哈马	巴哈马联邦	
+18	Barbados	Republic of Barbados	BB	1246	North America	巴巴多斯	巴巴多斯共和国	
+19	Belarus	Republic of Belarus	BY	375	Europe	白俄罗斯	白俄罗斯共和国	
+20	Belgium	Kingdom of Belgium	BE	32	Europe	比利时	比利时王国	
+21	Belize	Belize	BZ	501	North America	伯利兹	伯利兹	
+22	Benin	Republic of Benin	BJ	229	Africa	贝宁	贝宁共和国	
+23	Bermuda	Bermuda Islands	BM	1441	Europe	百慕大	百慕大群岛	
+24	Bhutan	Kingdom of Bhutan	BT	975	Asia	不丹	不丹王国	
+25	Bolivia	Republic of Bolivia	BO	591	South America	玻利维亚	多民族玻利维亚国	
+26	Bosnia and Herzegovina	Republic of Bosnia and Herzegovina	BA	689	Asia	波黑	波斯尼亚和黑塞哥维那社会主义共和国	
+27	Botswana	Republic of Botswana	BW	267	Africa	博茨瓦纳	博茨瓦纳共和国	
+28	Brazil	Federative Republic of Brazil	BR	55	South America	巴西	巴西联邦共和国	
+29	Brunei	Brunei Darussalam	BN	673	Asia	文莱	文莱达鲁萨兰国	
+30	Bulgaria	Republic of Bulgaria	BG	359	Europe	保加利亚	保加利亚共和国	
+31	Burkina Faso	Burkina Faso	BF	226	Africa	布基纳法索	布基纳法索	
+32	Burundi	Republic of Burundi	BI	257	Africa	布隆迪	布隆迪共和国	
+33	Cambodia	Kingdom of Cambodia	KH	855	Asia	柬埔寨	柬埔寨王国	
+34	Cameroon	Republic of Cameroon	CM	237	Africa	喀麦隆	喀麦隆共和国	
+35	Canada	Canada	CA	1	North America	加拿大	加拿大	
+36	Cape Verde	Republic of Cape Verde	CV	238	Africa	佛得角	佛得角共和国	
+37	Central African	Central African Republic	CF	236	Africa	中非	中非共和国	
+38	Chad	Republic of Chad	TD	235	Africa	乍得	乍得共和国	
+39	Chile	Republic of Chile	CL	56	South America	智利	智利共和国	
+40	Christmas Islands	Christmas Islands	CX	672	Oceania	圣诞岛	圣诞岛	
+41	Cocos Islands	Cocos Islands	CC	672	Oceania	科科斯群岛	科科斯群岛	
+42	Colombia	Republic of Columbia	CO	57	South America	哥伦比亚	哥伦比亚共和国	
+43	Comoros	Federal Islamic Republic of the Comoros	KM	269	Africa	科摩罗	科摩罗联盟	
+44	Congo Kinshasa	Democratic Republic of Congo	CD	243	Africa	刚果金	刚果民主共和国	
+45	Congo	Republic of Congo	CG	242	Africa	刚果	刚果共和国	
+46	Cook Islands	Cook Islands	CK	682	Oceania	库克群岛	库克群岛	
+47	Costa Rica	Republic of Costa Rica	CR	506	North America	哥斯达黎加	哥斯达黎加共和国	
+48	Cote D'Ivoire	Republic of Cote DIvoire	CI	225	Africa	科特迪瓦	科特迪瓦共和国	
+49	China	The People Republic of China	CN	86	Asia	中国	中华人民共和国	
+50	Croatia	Republic of Croatia	HR	385	Europe	克罗地亚	克罗地亚共和国	
+51	Cuba	Republic of Cuba	CU	53	North America	古巴	古巴共和国	
+52	Czech	Czech Republic	CZ	420	Europe	捷克	捷克共和国	
+53	Cyprus	Republic of Cyprus	CY	357	Asia	塞浦路斯	塞浦路斯共和国	
+54	Denmark	Kingdom of Denmark	DK	45	Europe	丹麦	丹麦王国	
+55	Djibouti	Republic of Djibouti	DJ	253	Africa	吉布提	吉布提共和国	
+56	Dominica	Dominican Republic	DM	1809	North America	多米尼加	多米尼加共和国	
+57	Ecuador	Republic of Ecuador	EC	593	South America	厄瓜多尔	厄瓜多尔共和国	
+58	Egypt	Arab Republic of Egypt	EG	20	Africa	埃及	阿拉伯埃及共和国	
+59	Equatorial Guinea	Republic of Equatorial Guinea	GQ	240	Africa	赤道几内亚	赤道几内亚共和国	
+60	Eritrea	State of Eritrea	ER	291	Africa	厄立特里亚	厄立特里亚	
+61	Estonia	Republic of Estonia	EE	372	Europe	爱沙尼亚	爱沙尼亚共和国	
+62	Ethiopia	Federal Democratic Republic of Ethiopia	ET	251	Africa	埃塞俄比亚	埃塞俄比亚联邦民主共和国	
+63	Faroe Islands	Faroe Islands	FO	298	Europe	法罗群岛	法罗群岛	
+64	Fiji	Republic of the Fiji Islands	FJ	679	Oceania	斐济	斐济群岛共和国	
+65	Finland	Republic of Finland	FI	358	Europe	芬兰	芬兰共和国	
+66	France	Republic of France	FR	33	Europe	法国	法兰西共和国	
+67	French Guiana	French Guiana	GF	594	South America	法属圭亚那	法属圭亚那	
+68	French Polynesia	French Polynesia	PF	689	Oceania	法属波利尼西亚	法属波利尼西亚	
+69	Gabon	Gabonese Republic	GA	241	Africa	加蓬	加蓬共和国	
+70	Gambia	Republic of the Gambia	GM	220	Africa	冈比亚	冈比亚共和国	
+71	Georgia	Georgia	GE	995	Asia	格鲁吉亚	格鲁吉亚	
+72	Germany	Federal Republic of Germany	DE	49	Europe	德国	德意志联邦共和国	
+73	Ghana	Republic of Ghana	GH	233	Africa	加纳	加纳共和国	
+74	Gibraltar	Gibraltar	GI	350	Europe	直布罗陀	直布罗陀	
+75	Greece	Hellenic Republic	GR	30	Europe	希腊	希腊共和国	
+76	Grenada	Grenada	GD	1473	North America	格林纳达	格林纳达	
+77	Guadeloupe	Guadeloupe	GP	590	North America	瓜德罗普岛	瓜德罗普岛	
+78	Guam	Guam	GU	1671	Oceania	关岛	关岛	
+79	Guatemala	Republic of Guatemala	GT	502	North America	危地马拉	危地马拉共和国	
+80	Guinea Bissau	Republic of Guinea Bissau	GW	245	Africa	几内亚比绍	几内亚比绍共和国	
+81	Guinea	Republic of Guinea	GN	224	Africa	几内亚	几内亚共和国	
+82	Guyana	Cooperative Republic of Guyana	GY	592	South America	圭亚那	圭亚那合作共和国	
+83	Haiti	Republic of Haiti	HT	509	North America	海地	海地共和国	
+84	Honduras	Republic of Honduras	HN	504	North America	洪都拉斯	洪都拉斯共和国	
+85	Hungary	Republic of Hungary	HU	36	Europe	匈牙利	匈牙利	
+86	Iceland	Republic of Iceland	IS	354	Europe	冰岛	冰岛共和国	
+87	India	Republic of India	IN	91	Asia	印度	印度共和国	
+88	Indonesia	Republic of Indonesia	ID	62	Asia	印度尼西亚	印度尼西亚共和国	
+89	Iran	Islamic Republic of Iran	IR	98	Asia	伊朗	伊朗伊斯兰共和国	
+90	Iraq	Republic of Iraq	IQ	964	Asia	伊拉克	伊拉克共和国	
+91	Ireland	Republic of Ireland	IE	353	Europe	爱尔兰	爱尔兰共和国	
+92	Israel	State of Israel	IL	972	Asia	以色列	以色列国	
+93	Italy	Republic of Italy	IT	39	Europe	意大利	大利共和国	
+94	Jamaica	Jamaica	JM	1876	North America	牙买加	牙买加	
+95	Japan	Japan	JP	81	Asia	日本	日本国	
+96	Jordan	Hashemite Kingdom of Jordan	JO	962	Asia	约旦	约旦哈希姆王国	
+97	Kazakhstan	Republic of Kazakstan	KZ	7	Asia	哈萨克斯坦	哈萨克斯坦共和国	
+98	Kenya	Republic of Kenya	KE	254	Africa	肯尼亚	肯尼亚共和国	
+99	Kiribati	Republic of Kiribati	KI	686	Oceania	基里巴斯	基里巴斯共和国	
+100	Korea South	Republic of Korea	KR	82	Asia	韩国	大韩民国	
+101	Korea North	Democratic Peoples Republic of Korea	KP	850	Asia	朝鲜	朝鲜民主主义人民共和国	
+102	Kuwait	State of Kuwait	KW	965	Asia	科威特	科威特国	
+103	Kyrgyzstan	Kyrgyz Republic	KG	996	Asia	吉尔吉斯斯坦	吉尔吉斯共和国	
+104	Laos	Laos Peoples Democratic Republic	LO	856	Asia	老挝	老挝人民民主共和国	
+105	Latvia	Republic of Latvia	LV	371	Europe	拉脱维亚	拉脱维亚共和国	
+106	Lebanon	Republic of Lebanon	LB	961	Asia	黎巴嫩	黎巴嫩共和国	
+107	Lesotho	Kingdom of Lesotho	LS	266	Africa	莱索托	莱索托王国	
+108	Liberia	Republic of Liberia	LR	231	Africa	利比里亚	利比里亚共和国	
+109	Libya	Great Socialist Peoples Libyan Arab Jamahiriya	LY	218	Africa	利比亚	大阿拉伯利比亚人民社会主义民众国	
+110	Liechtenstein	Principality of Liechtenstein	LI	423	Europe	列支敦士登	列支敦士登公国	
+111	Lithuania	Republic of Lithuania	LT	370	Europe	立陶宛	立陶宛共和国	
+112	Luxembourg	Grand Duchy of Luxembourg	LU	352	Europe	卢森堡	卢森堡大公国	
+113	Macedonia	Republic of Macedonia	MK	389	Europe	马其顿	马其顿共和国	
+114	Malawi	Republic of Malawi	MW	265	Africa	马拉维	马拉维共和国	
+115	Malaysia	Malaysia	MY	60	Asia	马来西亚	马来西亚联邦	
+116	Madagascar	Republic of Madagascar	MG	261	Africa	马达加斯加	马达加斯加共和国	
+117	Maldives	Republic of Maldives	MV	960	Asia	马尔代夫	马尔代夫共和国	
+118	Mali	Republic of Mali	ML	223	Africa	马里	马里共和国	
+119	Malta	Republic of Malta	MT	356	Europe	马耳他	马耳他共和国	
+120	Marshall Islands	Republic of the Marshall Islands	MH	692	Oceania	马绍尔群岛	马绍尔群岛共和国	
+121	Mauritania	Islamic Republic of Mauritania	MR	222	Africa	毛里塔尼亚	毛里塔尼亚伊斯兰共和国	
+122	Mauritius	Republic of Mauritius	MU	230	Africa	毛里求斯	毛里求斯共和国	
+123	Mayotte	Mayotte	YT	262	Africa	马约特	马约特岛	
+124	Mexico	United States of Mexico	MX	52	North America	墨西哥	墨西哥合众国	
+125	Micronesia	Federated States of Micronesia	MF	691	Oceania	密克罗尼西亚	密克罗尼西亚	
+126	Moldova	Republic of Moldova	MD	373	Europe	摩尔多瓦	摩尔多瓦共和国	
+127	Monaco	Principality of Monaco	MC	377	Europe	摩纳哥	摩纳哥公国	
+128	Mongolia	Mongolia	MN	976	Asia	蒙古	蒙古国	
+129	Montenegro	Montenegro	ME	382	Europe	黑山	黑山	
+130	Morocco	Kingdom of Morocco	MA	212	Africa	摩洛哥	摩洛哥王国	
+131	Mozambique	Republic of Mozambique	MZ	258	Africa	莫桑比克	莫桑比克共和国	
+132	Myanmar	Union of Myanmar	MM	95	Asia	缅甸	缅甸联邦共和国	
+133	Namibia	Republic of Namibia	NA	264	Africa	纳米比亚	纳米比亚共和国	
+134	Nauru	Republic of Nauru	NR	674	Oceania	瑙鲁	瑙鲁共和国	
+135	Nepal	Federal Democratic Republic of Nepal	NP	977	Asia	尼泊尔	尼泊尔联邦民主共和国	
+136	Netherlands	Kingdom of the Netherlands	NL	31	Europe	荷兰	尼德兰王国	
+137	New Caledonia	New Caledonia	NC	687	Oceania	新喀里多尼亚	新喀里多尼亚	
+138	New Zealand	New Zealand	NZ	64	Oceania	新西兰	新西兰	
+139	Nicaragua	Republic of Nicaragua	NI	505	North America	尼加拉瓜	尼加拉瓜共和国	
+140	Niger	Republic of Niger	NE	227	Africa	尼日尔	尼日尔共和国	
+141	Nigeria	Federal Republic of Nigeria	NG	234	Africa	尼日利亚	尼日利亚联邦共和国	
+142	Niue	Niue	NU	683	Oceania	纽埃	纽埃	
+143	Norway	The Kingdom of Norway	NO	47	Europe	挪威	挪威王国	
+144	Oman	Sultanate of Oman	OM	963	Asia	阿曼	阿曼苏丹国	
+145	Pakistan	Islamic Republic of Pakistan	PK	92	Asia	巴基斯坦	巴基斯坦伊斯兰共和国	
+146	Palau	Republic of Palau	PW	680	Oceania	帕劳	帕劳共和国	
+147	Palestine	State of Palestine	PS	970	Asia	巴勒斯坦	巴勒斯坦国	
+148	Panama	Republic of Panama	PA	507	North America	巴拿马	巴拿马共和国	
+149	Papua New Guinea	Independent State of Papua New	PG	675	Oceania	巴布亚新几内亚	巴布亚新几内亚独立国	
+150	Peru	Republic of Peru	PE	51	South America	秘鲁	秘鲁共和国	
+151	Philippines	Republic of the Philippines	PH	63	Asia	菲律宾	菲律宾共和国	
+152	Pitcairn Islands	Pitcairn Islands	PN	64	Oceania	皮特凯恩群岛	皮特凯恩群岛	
+153	Poland	Republic of Poland	PL	48	Europe	波兰	波兰共和国	
+154	Portugal	The Portuguese Republic	PT	351	Europe	葡萄牙	葡萄牙共和国	
+155	Puerto Rico	The Commonwealth of Puerto Rico	PR	1787	Europe	波多黎各	波多黎各自治邦	
+156	Qatar	State of Qatar	QA	974	Asia	卡塔尔	卡塔尔国	
+157	Reunion	Reunion	RE	262	Africa	留尼汪岛	留尼汪岛	
+158	Romania	Romania	RO	40	Europe	罗马尼亚	罗马尼亚	
+159	Rwanda	Republic of Rwanda	RW	250	Africa	卢旺达	卢旺达共和国	
+160	Russian	Russian Federation	RU	7	Europe	俄罗斯	俄罗斯联邦	
+161	Saint Helena	Saint Helena	SH	290	Africa	圣赫勒拿	圣赫勒拿岛	
+162	Saint Kittsnevis	Saint Kittsnevis	KN	1869	North America	圣基茨和尼维斯	圣基茨和尼维斯联邦	
+163	Saint Lucia	Saint Lucia	LC	1758	North America	圣卢西亚	圣卢西亚	
+164	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines	VG	1784	North America	圣文森特和格林纳丁斯	圣文森特和格林纳丁斯	
+165	Salvador	Republic of Salvador	SV	503	North America	萨尔瓦多	萨尔瓦多共和国	
+166	Samoa	Republic of Samoa	WS	685	Oceania	萨摩亚	萨摩亚独立国	
+167	San Marino	Republic of San Marino	SM	378	Europe	圣马力诺	圣马力诺共和国	
+168	Sao Tome and Principe	The Democratic Republic of Sao Tome and Principe	ST	239	Africa	圣多美和普林西比	圣多美和普林西比民主共和国	
+169	Saudi Arabia	Kingdom of Saudi Arabia	SA	966	Asia	沙特阿拉伯	沙特阿拉伯王国	
+170	Senegal	Republic of Senegal	SN	221	Africa	塞内加尔	塞内加尔共和国	
+171	Seychelles	Republic of Seychelles	SC	248	Africa	塞舌尔	塞舌尔共和国	
+172	Sierra Leone	Republic of Sierra Leone	SL	232	Africa	塞拉利昂	塞拉利昂共和国	
+173	Singapore	Republic of Singapore	SG	65	Asia	新加坡	新加坡共和国	
+174	Serbia	Republic of Serbia	RS	381	Europe	塞尔维亚	塞尔维亚共和国	
+175	Slovakia	Republic of Slovakia	SK	421	Europe	斯洛伐克	斯洛伐克共和国	
+176	Slovenia	Republic of Slovenia	SI	386	Europe	斯洛文尼亚	斯洛文尼亚共和国	
+177	Solomon Islands	Solomon Islands	SB	677	Oceania	所罗门群岛	所罗门群岛	
+178	Somalia	The Federal Republic of Somalia	SO	252	Africa	索马里	索马里联邦共和国	
+179	South Africa	Republic of South Africa	ZA	27	Africa	南非	南非共和国	
+180	Spain	Kingdom of Spain	ES	34	Europe	西班牙	西班牙王国	
+181	Sri Lanka	The Democratic Socialist Republic of Sri Lanka	LK	94	Asia	斯里兰卡	斯里兰卡民主社会主义共和国	
+182	Sudan	Republic of Sudan	SD	249	Africa	苏丹	苏丹共和国	
+183	Suriname	Republic of Suriname	SR	597	South America	苏里南	苏里南共和国	
+184	Swaziland	The Kingdom of Swaziland	SZ	268	Africa	斯威士兰	斯威士兰王国	
+185	Sweden	The Kingdom of Sweden	SE	46	Europe	瑞典	瑞典王国	
+186	Switzerland	Schweizerische Eidgenossenschaft	CH	41	Europe	瑞士	瑞士联邦	
+187	Syria	Syrian Arab Republic	SY	963	Africa	叙利亚	阿拉伯叙利亚共和国	
+188	Tajikistan	Republic of Tajikistan	TJ	992	Asia	塔吉克斯坦	塔吉克斯坦共和国	
+189	Tanzania	Republic of Tanzania	TZ	255	Africa	坦桑尼亚	坦桑尼亚联合共和国	
+190	Thailand	The Kingdom of Thailand	TH	66	Asia	泰国	泰王国	
+191	Trinidad and Tobago	Republic of Trinidad and Tobago	TT	1868	North America	特立尼达和多巴哥	特立尼达和多巴哥共和国	
+192	Timorleste	Democratic Republic of Timorleste	TL	670	Asia	东帝汶	东帝汶民主共和国	
+193	Togo	Republic of Togo	TG	228	Africa	多哥	多哥共和国	
+194	Tonga	The Kingdom of Tonga	TO	676	Oceania	汤加	汤加王国	
+195	Tunisia	Republic of Tunisia	TN	216	Africa	突尼斯	突尼斯共和国	
+196	Turkey	Republic of Turkey	TR	90	Asia	土耳其	土耳其共和国	
+197	Turkmenistan	Turkmenistan	TM	993	Asia	土库曼	土库曼斯坦	
+198	Tuvalu	Tuvalu	TV	688	Oceania	图瓦卢	图瓦卢	
+199	Uganda	Republic of Uganda	UG	256	Africa	乌干达	乌干达共和国	
+200	Ukraine	Ukraine	UA	380	Europe	乌克兰	乌克兰	
+201	United Arab Emirates	United Arab Emirates	AE	971	Asia	阿联酋	阿拉伯联合酋长国	
+202	United Kingdom	United Kingdom of Great Britain and Northern Ireland	UK	44	Europe	英国	大不列颠及北爱尔兰联合王国	
+203	United States	United States of America	US	1	North America	美国	美利坚合众国	
+204	Uruguay	Oriental Republic of Uruguay	UY	598	South America	乌拉圭	乌拉圭东岸共和国	
+205	Uzbekistan	Republic of Uzbekistan	UZ	998	Asia	乌兹别克斯坦	乌兹别克斯坦共和国	
+206	Vanuatu	Republic of Vanuatu	VU	678	Oceania	瓦努阿图	瓦努阿图	
+207	Vatican	Vatican City State	VA	379	Europe	梵蒂冈	梵蒂冈城国	
+208	Venezuela	Republic of Venezuela	VE	58	South America	委内瑞拉	委内瑞拉玻利瓦尔共和国	
+209	Vietnam	Socialist Republic of Vietnam	VN	84	Asia	越南	越南社会主义共和国	
+210	Western Sahara	The Sahrawi Arab Democratic Republic	EH	212	Africa	西撒哈拉	阿拉伯撒哈拉民主共和国	
+211	Yemen	Republic of Yemen	YE	967	Asia	也门	也门共和国	
+212	Zambia	Republic of Zambia	ZM	260	Africa	赞比亚	赞比亚共和国	
+213	Zimbabwe	Republic of Zimbabwe	ZW	263	Africa	津巴布韦	津巴布韦共和国	
