@@ -204,7 +204,7 @@ export namespace XLoadFile {
                 head = null;
             } else {
                 data.count = 0;
-                data.list = new Array<any>();
+                data.list = {};
             }
 
             let line:any = null;
@@ -226,7 +226,7 @@ export namespace XLoadFile {
                     if(ikey.length > 0) {
                         data.list[item[ikey]] = item;
                     } else {
-                        data.list.push(item);
+                        data.list[count] = item;
                     }
                 } else {
                     data.push(value);
@@ -306,7 +306,7 @@ export namespace XLoadFile {
                 head = null;
             } else {
                 data.count = 0;
-                data.list = new Array<any>();
+                data.list = {};
             }
 
             let line:any = null;
@@ -328,7 +328,7 @@ export namespace XLoadFile {
                     if(ikey.length > 0) {
                         data.list[item[ikey]] = item;
                     } else {
-                        data.list.push(item);
+                        data.list[count] = item;
                     }
                 } else {
                     data.push(value);

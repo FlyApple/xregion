@@ -12,6 +12,7 @@ function main() {
     }
 
     XRegion.save_to_file("JSON", data, "./country.json");
+    XRegion.save_to_file("TS", data, "./country.ts");
     return 0;
 }
 

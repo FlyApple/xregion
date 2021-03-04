@@ -9,6 +9,7 @@ function main() {
         return -1;
     }
     xregion_1.XRegion.save_to_file("JSON", data, "./country.json");
+    xregion_1.XRegion.save_to_file("TS", data, "./country.ts");
     return 0;
 }
 main();

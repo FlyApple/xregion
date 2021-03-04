@@ -1,4 +1,4 @@
-﻿{
+﻿const XREGION_TEXT = `{
 	"index": "id",
 	"count": 213,
 	"list": {
@@ -35074,4 +35074,106 @@
 			"desc": null
 		}
 	}
-}
+}`;
+const XREGION_LIST = JSON.parse(XREGION_TEXT);
+export let XRegionText = XREGION_TEXT;
+export let XRegionList = XREGION_LIST;
+
+            // 不以空格为分割符
+            export let XRegionToArray = (text:string) => {
+                let values = text.trim().split(/[/|,|:|;]/i);
+                if(!values || values.length == 0) {
+                    return null;
+                } else if(values.length == 1 && values[0].length == 0) {
+                    return null;
+                }
+                values.forEach((v, i, a) => {
+                    a[i] = v.trim();
+                });
+                return values;
+            }
+			export let XRegionToAny = (text:string, sep:string = ",") => {
+				let values = XRegionToArray(text);
+				if(!values || values.length == 0) {
+					return { country: null, region: null };
+				}
+				if(values.length < 1) {
+					return { country: values[0], region: null };
+				}
+				values = values.slice(1);
+				return { country: values[0], region: values.join(sep) };
+			}
+            export let XRegionToText = (values:Array<string>, sep:string = ",") => {
+                if(!values || values.length == 0) {
+                    return "";
+                }
+                return values.join(sep);
+            }
+			export let XRegionFromAny = (country:string|null, region:string|null, sep:string = ",") => {
+				if(!country) { return null; }
+				if(!region) { return [country] }
+				
+				let values = [country, region];
+				let value = XRegionToText(values, sep);
+
+				// 重新格式化
+				return XRegionToArray(value);
+			}
+            export let XRegionParse = (values:Array<string>|null, key:string = "name") => {
+				if(!values || values.length == 0) { return null; }
+				
+				let country:any = null;
+				let country_list:Array<any> = XREGION_LIST.list;
+				for(let i in country_list) {
+					if(i == "count" || i == "length") { continue; }
+
+					let v = country_list[i];
+					if(!v[key]) { continue; }
+					if(v[key] == values[0]) {
+						country = { ...v };
+						break;
+					}
+				}
+
+				if(!country) {
+					return null;
+				}
+
+				let province:any = null;
+				if(values.length > 1) {
+					let province_list = country.list;
+					for(let i in province_list) {
+						if(i == "count" || i == "length") { continue; }
+
+						let v = province_list[i];
+						if(!v[key]) { continue; }
+						if(v[key] == values[1]) {
+							province = { ...v };
+							break;
+						}
+					}
+				}
+
+				let city:any = null;
+				if(province && values.length > 2) {
+					let city_list = province.list;
+					for(let i in city_list) {
+						if(i == "count" || i == "length") { continue; }
+
+						let v = city_list[i];
+						if(!v[key]) { continue; }
+						if(v[key] == values[2]) {
+							city = { ...v };
+							break;
+						}
+					}
+				}
+
+				delete country?.list;
+				delete province?.list;
+				delete city?.list;
+				return { country:country, province:province, city:city };
+			}
+            
+
+            

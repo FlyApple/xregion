@@ -165,7 +165,7 @@ var XLoadFile;
             }
             else {
                 data.count = 0;
-                data.list = new Array();
+                data.list = {};
             }
             let line = null;
             let count = 0;
@@ -187,7 +187,7 @@ var XLoadFile;
                         data.list[item[ikey]] = item;
                     }
                     else {
-                        data.list.push(item);
+                        data.list[count] = item;
                     }
                 }
                 else {
@@ -256,7 +256,7 @@ var XLoadFile;
             }
             else {
                 data.count = 0;
-                data.list = new Array();
+                data.list = {};
             }
             let line = null;
             let count = 0;
@@ -278,7 +278,7 @@ var XLoadFile;
                         data.list[item[ikey]] = item;
                     }
                     else {
-                        data.list.push(item);
+                        data.list[count] = item;
                     }
                 }
                 else {
